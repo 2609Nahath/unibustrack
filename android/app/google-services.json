@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901584904249",
+    "project_id": "unibustrack-e4164",
+    "storage_bucket": "unibustrack-e4164.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901584904249:android:f15f7b2230625af2632de8",
+        "android_client_info": {
+          "package_name": "com.example.unibustrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0EzauelWB1X9ETdQBISrvQXM9-xZXyhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
